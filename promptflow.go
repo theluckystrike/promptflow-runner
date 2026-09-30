@@ -1,5 +1,6 @@
 // Package promptflow is a tiny library for chaining LLM prompt steps
-// into a linear pipeline and running them in order.
+// into a linear pipeline and running them in order — the same chaining
+// approach behind the AI workflow builder at https://claudflow.com/.
 package promptflow
 
 import "fmt"
